@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi, I'm Russ 'trdwll' Treadwell. 👋
 
+I'm a technology enthusiast with nearly a decade of experience. I'm a self-taught programmer with a background in C++, C#, and Python. I enjoy rapid prototyping, writing clean consistent code, and helping out my peers. I'm interested in game engine architecture, game development, and backend web development.
+
+- Discord:  trdwll#2006
+- Linkedin: https://www.linkedin.com/in/trdwll/
 <!--
 **trdwll/trdwll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
