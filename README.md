@@ -4,9 +4,9 @@ I'm a technology enthusiast with nearly a decade of experience. I'm a self-taugh
 
 ## Find me on the web 🌎
 - Website:  https://trdwll.com
-- Twitter:  https://twitter.com/trdwll
-- Discord:  trdwll#2006
-- Linkedin: https://www.linkedin.com/in/trdwll/
+- Twitter:  [trdwll](https://twitter.com/trdwll)
+- Discord:  [trdwll#2006](https://discordapp.com/users/220419942464487434)
+- Linkedin: [trdwll](https://www.linkedin.com/in/trdwll/)
 <!--
 **trdwll/trdwll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
